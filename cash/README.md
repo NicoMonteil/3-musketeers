@@ -28,7 +28,7 @@ To start you need to download [this](https://github.com/NicoMonteil/3-musketeers
 ## Node.js installation
 
 #### Windows installation
-To install node.js on Windows, you can follow [this tutorial](#http://blog.teamtreehouse.com/install-node-js-npm-windows)
+To install node.js on Windows, you can follow [this](http://blog.teamtreehouse.com/install-node-js-npm-windows)  tutorial
 
 #### Linux installation
 To install node.js on Linux, you have to install npm, by enter the following commands on on the terminal :

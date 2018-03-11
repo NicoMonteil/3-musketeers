@@ -1,5 +1,7 @@
 # README
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## Cash
 
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*

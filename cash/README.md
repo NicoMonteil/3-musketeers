@@ -15,7 +15,7 @@
 
 ## Download (Fork) the project
 
-To start you need to download [this](#https://github.com/NicoMonteil/3-musketeers) project on your computer.
+To start you need to download [this](https://github.com/NicoMonteil/3-musketeers) project on your computer.
 
 #### To do this :
 1. You need to Fork on the ```github```

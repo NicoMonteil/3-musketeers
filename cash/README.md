@@ -1,6 +1,6 @@
 # README
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/NicoMonteil/3-musketeers/tree/master/cash/Monnaie.jpg)
 
 ## Cash
 

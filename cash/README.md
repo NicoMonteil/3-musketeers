@@ -1,7 +1,5 @@
 # README
 
-![picture](https://github.com/NicoMonteil/3-musketeers/tree/master/cash/Monnaie.jpg)
-
 ## Cash
 
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
